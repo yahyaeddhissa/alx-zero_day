@@ -1,1 +1,1 @@
-My first readme
+I'm learning Git at ALX!
